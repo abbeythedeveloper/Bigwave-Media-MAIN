@@ -33,6 +33,19 @@ body .dark {
 	font-size: 18px;
 	line-height: 1.9;
 }
+.lighttext{
+    color: #e1e1e1;
+}
+.darktext{
+    color: #0e131b;
+}
+.lighttexts{
+    color:  #e1e1e1; 
+}
+.darktexts{
+    color:#0e131b;
+}
+
 .carousel-inner:before {
 	content: '';
 	position: absolute;
