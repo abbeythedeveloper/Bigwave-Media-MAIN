@@ -116,6 +116,9 @@ body .dark {
 	.carousel-caption {
 		bottom: 370px;
 	}
+	.carousel-item {
+		height: 60vh;
+	}
 	.carousel-caption p {
 		width: 100%;
 	}
